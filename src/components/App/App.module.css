@@ -1,0 +1,11 @@
+.container {
+	padding: 24px;
+	text-align: center;
+	width: 600px;
+	height: 200px;
+	background-color: white;
+}
+
+.dsa {
+	margin-bottom: 18px;
+}
